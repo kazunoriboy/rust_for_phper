@@ -1,4 +1,5 @@
-#　Rust for PHPer
+# Rust for PHPer
+
 Manus × Geminiで作成したPHPer向けのRust学習教材
 
 ## コンセプト
